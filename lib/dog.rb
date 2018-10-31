@@ -7,4 +7,3 @@ class Dog
     binding.pry
   end
 end
-fido =Dog.new("FIDO")
