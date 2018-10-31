@@ -6,5 +6,6 @@ class Dog
     @@all<<self
   end
 
-  Dog.all 
+  Dog.all
+  
 end
