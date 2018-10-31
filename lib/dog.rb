@@ -1,1 +1,2 @@
-class Dob
+class Dog
+end 
