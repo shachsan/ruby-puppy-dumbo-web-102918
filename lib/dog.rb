@@ -8,5 +8,6 @@ class Dog
   end
 
   def Dog.all
+    @@
   end
 end
