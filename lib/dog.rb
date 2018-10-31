@@ -1,7 +1,9 @@
+
+
 class Dog
   @@all = []
   def initialize(name)
     @@all<<name
-    binding
+    binding.pry
   end
 end
