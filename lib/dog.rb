@@ -5,5 +5,6 @@ class Dog
   def initialize(name)
     @@all<<self
   end
-  
+
+  Dog.all 
 end
