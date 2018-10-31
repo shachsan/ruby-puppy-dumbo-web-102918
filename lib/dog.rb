@@ -3,6 +3,6 @@ require 'pry'
 class Dog
   @@all = []
   def initialize(name)
-    @@all<<
+    @@all<<self
   end
 end
