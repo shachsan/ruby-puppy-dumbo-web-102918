@@ -3,7 +3,7 @@ require 'pry'
 class Dog
   @@all = []
   def initialize(name)
-    @@all<<name
+    @@all<<self
     binding.pry
   end
 end
