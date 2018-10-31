@@ -7,6 +7,6 @@ class Dog
     @@all<<self
   end
 
-  Dog.all
+  de Dog.all
 end
 end
