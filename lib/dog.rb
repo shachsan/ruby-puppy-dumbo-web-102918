@@ -7,4 +7,4 @@ class Dog
     binding.pry
   end
 end
-fido =Dog.new()
+fido =Dog.new("F")
